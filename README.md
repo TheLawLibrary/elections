@@ -1,3 +1,3 @@
 # elections
 
-Hello world!
+Hello world.
